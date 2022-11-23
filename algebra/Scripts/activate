@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Downloads\algebra\algebra"
+VIRTUAL_ENV="C:\Users\Hexaw\Documents\calculadora algebraica\calculadora_algebraica\algebra"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

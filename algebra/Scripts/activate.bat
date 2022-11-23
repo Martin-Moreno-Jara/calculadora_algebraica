@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Downloads\algebra\algebra
+set VIRTUAL_ENV=C:\Users\Hexaw\Documents\calculadora algebraica\calculadora_algebraica\algebra
 
 if not defined PROMPT set PROMPT=$P$G
 
